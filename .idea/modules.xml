@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-crm-rest-demo/spring-crm-rest.iml" filepath="$PROJECT_DIR$/spring-crm-rest-demo/spring-crm-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/web_customer_tracker.iml" filepath="$PROJECT_DIR$/.idea/web_customer_tracker.iml" />
+    </modules>
+  </component>
+</project>
